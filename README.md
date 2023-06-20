@@ -22,8 +22,8 @@ Challenge to create a GO image with less than 2MB
 
 ## Website images
 
-<img src="./assets/terminal_running_docker.png"  height="300" alt="terminal running docker and showing: Full Cycle Rocks!!"/>
-<img src="./src/assets/terminal_showing_image_size.png"  height="300" alt="terminal showing image size 1.23MB"/>
+<img src="./assets/terminal_running_docker.png" alt="terminal running docker and showing: Full Cycle Rocks!!"/>
+<img src="./assets/terminal_showing_image_size.png" alt="terminal showing image size 1.23MB"/>
 
 # Technologies used
 
