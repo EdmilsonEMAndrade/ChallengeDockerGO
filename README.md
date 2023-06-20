@@ -20,7 +20,7 @@ Challenge to create a GO image with less than 2MB
   After running the Docker image, terminal will print : => Full Cycle Rocks!!
 </div>
 
-## Website images
+## Images
 
 <img src="./assets/terminal_running_docker.png" alt="terminal running docker and showing: Full Cycle Rocks!!"/>
 <img src="./assets/terminal_showing_image_size.png" alt="terminal showing image size 1.23MB"/>
